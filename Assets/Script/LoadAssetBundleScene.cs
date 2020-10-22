@@ -18,6 +18,9 @@ public class LoadAssetBundleScene : MonoBehaviour
 
     }
 
+
+
+
     public void LoadScene()
     {
         StartCoroutine( StartAssetBundle() );
