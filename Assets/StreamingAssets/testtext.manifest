@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1518929245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec47c2f16e46283f080d161bfaef8411
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc67aed1dc47caa16a59b6e4c1af8fa2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/TestText.prefab
+Dependencies: []
