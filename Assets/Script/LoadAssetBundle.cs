@@ -20,7 +20,8 @@ public class LoadAssetBundle : MonoBehaviour
 
     IEnumerator StartAssetBundle()
     {
-        var path = Path.Combine( Application.streamingAssetsPath, "xsprite.AssetBundle" );
+        //var path = Path.Combine( Application.streamingAssetsPath, "xsprite.AssetBundle" );
+        var path = Path.Combine( Application.streamingAssetsPath, "xsprite" );
 
         var fileStream = new FileStream( path, FileMode.Open, FileAccess.Read );
         var bundleLoadRequest = AssetBundle.LoadFromStreamAsync( fileStream );

@@ -1,0 +1,16 @@
+
+
+https://cdn.jsdelivr.net/gh/ 사용자 이름 / 레퍼토리 명 / 파일 경로
+
+
+//안됨????
+https://cdn.jsdelivr.net/gh/metalgeni/AssetBundleTest/xsprite
+https://cdn.jsdelivr.net/gh/metalgeni/AssetBundleTest/Assets/StreamingAssets/xsprite.AssetBundle
+https://cdn.jsdelivr.net/gh/metalgeni/AssetBundleTest/AssetBundles/StandaloneWindows/testtext
+https://cdn.jsdelivr.net/gh/metalgeni/TestResource/StreamingAssets/xsprite.AssetBundle
+
+//됨
+https://cdn.jsdelivr.net/gh/metalgeni/temp/xx.js
+https://cdn.jsdelivr.net/gh/metalgeni/temp/graph_grade_o.png
+https://cdn.jsdelivr.net/gh/metalgeni/temp/xsprite
+https://cdn.jsdelivr.net/gh/metalgeni/temp/TestFolder/graph_grade_o.png
