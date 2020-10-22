@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2371398728
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testtext
+      Dependencies: {}
+    Info_1:
+      Name: xsprite
+      Dependencies: {}
